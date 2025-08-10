@@ -1,4 +1,4 @@
-baseURL = "https://nguyentruong.github.io/"
+baseURL = "https://quocton.github.io/WS-TQT/"
 relativeURLs = true
 canonifyURLs = false
 theme = "hugo-theme-learn"
